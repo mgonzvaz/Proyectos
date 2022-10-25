@@ -1,0 +1,5 @@
+com\nttdata\bootcamp\patron\singleton\models\APersonBuilder.class
+com\nttdata\bootcamp\patron\singleton\PatronSingletonApplication.class
+com\nttdata\bootcamp\patron\singleton\models\Person.class
+com\nttdata\bootcamp\patron\singleton\Singleton.class
+com\nttdata\bootcamp\patron\singleton\interfaces\PersonaBuilder.class
